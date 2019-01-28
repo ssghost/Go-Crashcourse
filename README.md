@@ -1,4 +1,4 @@
-# Go_Crashcourse
+# Go-Crashcourse
 
 This is my personal go crash course testing codes. These let me have a general understanding towards go's extraordinary characteristics. 
 
