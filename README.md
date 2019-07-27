@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/ssghost/Go-Crashcourse)](https://goreportcard.com/report/github.com/ssghost/Go-Crashcourse)
 # Go-Crashcourse
 
 This is my personal go crash course testing codes. These let me have a general understanding towards go's extraordinary characteristics. 
